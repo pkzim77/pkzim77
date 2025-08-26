@@ -23,8 +23,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pkzim77&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pkzim779&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pkzim77&theme=react&title_color=39D353&icon_color=39D353&text_color=ffffff&bg_color=0d1117&show_icons=true&hide_border=true&count_private=true" height="165" />
+
 </div>
 
 ---
@@ -35,7 +35,10 @@
   <a href="https://www.instagram.com/kaua_paulino.k/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/seuID" target="_blank">
+  <a href="https://discord.gg/ZdTUW2H4" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kau%C3%A3-albuquerque-224116202/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
 </p>
